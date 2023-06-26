@@ -372,6 +372,7 @@
                 }
               }
             },
+            "Ranged Weapon§Brother-captain—Psycannon"
             "Melee Weapon§Brother-captain—Nemesis force weapon"
           ]
         },
@@ -410,48 +411,6 @@
           "OC": {
             "value": 1
           },
-          "sampleLoadout": {
-            "statType": "rank",
-            "value": "Incinerator",
-            "ranks": {
-              "Incinerator": {
-                "order": 0,
-                "traits": [
-                  {
-                    "trait": "Ranged Weapon§Brother-captain—Incinerator"
-                  }
-                ]
-              },
-              "Psilencer": {
-                "order": 1,
-                "traits": [
-                  {
-                    "trait": "Ranged Weapon§Brother-captain—Psilencer"
-                  }
-                ]
-              },
-              "Psycannon": {
-                "order": 2,
-                "traits": [
-                  {
-                    "trait": "Ranged Weapon§Brother-captain—Psycannon"
-                  }
-                ]
-              },
-              "Storm bolter": {
-                "order": 3,
-                "traits": [
-                  {
-                    "trait": "Ranged Weapon§Brother-captain—Storm bolter"
-                  }
-                ]
-              },
-            },
-            "group": "Loadout",
-            "groupOrder": 2,
-            "visibility": "active",
-            "dynamic": true
-          }
         },
         "text": "ERROR: this unit’s wargear couldn’t be automatically applied and requires custom work.\n\nThis model is equipped with: storm bolter; Nemesis force weapon.\n\nThis model’s storm bolter can be replaced with one of the following: ◦ 1 incinerator ◦ 1 psilencer ◦ 1 psycannon"
       },
@@ -658,6 +617,7 @@
                 }
               }
             },
+            "Ranged Weapon§Brotherhood Librarian—Storm bolter"
             "Ranged Weapon§Brotherhood Librarian—Purge Soul"
             "Melee Weapon§Brotherhood Librarian—Nemesis force weapon"
           ]
@@ -696,34 +656,7 @@
           "OC": {
             "value": 1
           },
-          "sampleLoadout": {
-            "statType": "rank",
-            "value": "Combi-weapon",
-            "ranks": {
-              "Combi-weapon": {
-                "order": 0,
-                "traits": [
-                  {
-                    "trait": "Ranged Weapon§Brotherhood Librarian—Combi-weapon"
-                  }
-                ]
-              },
-              "Storm bolter": {
-                "order": 1,
-                "traits": [
-                  {
-                    "trait": "Ranged Weapon§Brotherhood Librarian—Storm bolter"
-                  }
-                ]
-              },
-            },
-            "group": "Loadout",
-            "groupOrder": 2,
-            "visibility": "active",
-            "dynamic": true
-          }
         },
-        "text": "ERROR: this unit’s wargear couldn’t be automatically applied and requires custom work.\n\nThis model is equipped with: Purge Soul; Nemesis force weapon.\n\nThis model can be equipped with one of the following: ◦ 1 combi-weapon ◦ 1 storm bolter"
       },
       "Character§Brotherhood Techmarine": {
         "assets": {
